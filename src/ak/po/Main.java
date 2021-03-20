@@ -17,7 +17,7 @@ public class Main {
         double number;
         Integer value = null;
         int index;
-
+        int tak;
         for (int i=0; i<N; i++) {
             number = random.nextDouble();
             if (number < 0.4) {
